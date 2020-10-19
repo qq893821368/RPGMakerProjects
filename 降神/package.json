@@ -3,7 +3,7 @@
     "main": "index.html",
     "chromium-args": "--force-color-profile=srgb",
     "window": {
-        "title": "降神",
+        "title": "降 神",
         "width": 816,
         "height": 624,
         "position": "center",
